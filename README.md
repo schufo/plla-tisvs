@@ -1,7 +1,5 @@
 # Phoneme Level Lyrics Alignment and Text-Informed Singing Voice Separation
 
-This is the code for "Phoneme Level Lyrics Alignment and Text-Informed Singing Voice Separation"
-
 We are working on releasing the Python source code, but choose not to make it publicly available while the paper is under review.
 
 # Acknowledgment
