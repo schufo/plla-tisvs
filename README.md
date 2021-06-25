@@ -2,13 +2,14 @@
 
 This is the code for the paper
 
-> Schulze-Forster, K., Doire, C., Richard, G., & Badeau, R. "Phoneme Level Lyrics Alignment and Text-Informed Singing Voice Separation." *IEEE/ACM Transactions on Audio, Speech and Language Processing* (2021). doi: [10.1109/TASLP.2021.3091817](https://doi.org/10.1109/TASLP.2021.3091817)
+> Schulze-Forster, K., Doire, C., Richard, G., & Badeau, R. "Phoneme Level Lyrics Alignment and Text-Informed Singing Voice Separation." *IEEE/ACM Transactions on Audio, Speech and Language Processing* (2021).  
+>doi: [10.1109/TASLP.2021.3091817](https://doi.org/10.1109/TASLP.2021.3091817)
 
 If you use parts of the code in your work, please cite the paper.
 
 ## Links
-[:page_facing_up: Publicly available paper print](https://hal.telecom-paris.fr/hal-03255334)
-[:loudspeaker: Audio examples](https://schufo.github.io/plla_tisvs/)
+[:page_facing_up: Publicly available paper print](https://hal.telecom-paris.fr/hal-03255334)  
+[:loud_sound: Audio examples](https://schufo.github.io/plla_tisvs/)  
 [:memo: MUSDB18 lyrics transcripts](https://doi.org/10.5281/zenodo.3989267)
 
 ## Installation
