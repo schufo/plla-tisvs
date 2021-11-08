@@ -11,6 +11,7 @@ If you use parts of the code in your work, please cite the paper.
 [:page_facing_up: Publicly available paper print](https://hal.telecom-paris.fr/hal-03255334)  
 [:loud_sound: Audio examples](https://schufo.github.io/plla_tisvs/)  
 [:memo: MUSDB18 lyrics transcripts](https://doi.org/10.5281/zenodo.3989267)
+[:computer: Lyrics alignment tool](https://github.com/schufo/lyrics-aligner)
 
 ## Installation
 Clone the repository to your machine:
@@ -50,7 +51,8 @@ python train.py --tag 'JOINT_SP' --architecture 'InformedOpenUnmix3' --attention
 </pre>
 
 Before the separation models can be trained using aligned lyrics, the alignments need to be available.
-Alignments can be obtained from the above models using the script save_alignment_paths.py. 
+Alignments can be obtained from the above models using the script save_alignment_paths.py. We also published the trained model JOINT3 as [alignment tool](https://github.com/schufo/lyrics-aligner).
+
 Separation models can then be trained as follows:
 
 <pre>
