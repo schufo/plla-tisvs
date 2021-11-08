@@ -11,6 +11,7 @@ If you use parts of the code in your work, please cite the paper.
 [:page_facing_up: Publicly available paper print](https://hal.telecom-paris.fr/hal-03255334)  
 [:loud_sound: Audio examples](https://schufo.github.io/plla_tisvs/)  
 [:memo: MUSDB18 lyrics transcripts](https://doi.org/10.5281/zenodo.3989267)
+
 [:computer: Lyrics alignment tool](https://github.com/schufo/lyrics-aligner)
 
 ## Installation
