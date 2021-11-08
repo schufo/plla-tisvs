@@ -27,7 +27,7 @@ path_to_musdb = '../Datasets/MUSDB18'
 path_to_train_lyrics = '../Datasets/MUSDB_w_lyrics/lyrics_transcripts/train'
 path_to_test_lyrics = '../Datasets/MUSDB_w_lyrics/lyrics_transcripts/test'
 
-pickle_in = open('../Datasets/MUSDB_w_lyrics/char2idx.pickle', 'rb')
+pickle_in = open('dicts/char2idx.pickle', 'rb')
 char2idx = pickle.load(pickle_in)
 
 target_sr = 16000
